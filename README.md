@@ -36,13 +36,13 @@ temperature is unavailable, informs the user.
 - Memory Details
 Reports total installed memory, RAM speed, model, and manufacturer.
 
-- Future Plans (WIP)
+Future Plans (WIP)
 
-Add logging and export to file
+- Add logging and export to file
 
-Expand to multiple drives
+- Expand to multiple drives
 
-Include network interface data
+- Include network interface data
 
 ---
 
