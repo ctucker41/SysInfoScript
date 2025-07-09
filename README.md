@@ -62,15 +62,15 @@ PowerShell 5.1 or later
 
 - Some temperature readings may require administrative privileges or compatible hardware.
 
-Running the Script
-Clone the Repository
+### Running the Script
+**Clone the Repository**
 
-'''bash
-git clone https://github.com/ctucker41/SysInfoScript.git
-cd SysInfoScript
-.\SysInfo.ps1
-'''
-✅ Make sure to allow script execution if prompted (you may need to run Set-ExecutionPolicy).
+Make sure to allow script execution if prompted. You may need to run:
+
+```powershell
+Set-ExecutionPolicy RemoteSigned
+```
+
 
 ```bash
 git clone https://github.com/ctucker41/SysInfoScript.git
