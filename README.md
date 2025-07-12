@@ -1,6 +1,6 @@
-# System Information Script (WIP)
+# Powershell System Information Script
 
-![Work in Progress](https://img.shields.io/badge/status-WIP-yellow)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
 ---
 
@@ -16,9 +16,8 @@
 ---
 
 ## About
-This is a Powershell script (WIP) I am developing to quickly read CPU, RAM, disk, GPU and other system information and output the 
+This is a Powershell script I developed to quickly read CPU, RAM, disk, GPU and other system information and output the 
 information back to the user. It includes warnings based on certain conditions such as high CPU temperature and low disk space. 
-I intend to add more functionality as I continue to work with the script.
 
 ---
 
